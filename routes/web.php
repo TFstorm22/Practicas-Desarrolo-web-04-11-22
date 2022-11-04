@@ -21,7 +21,7 @@
 				<!-- Header -->
 					<header id="header">
 						<h1>Jose Angel avance</h1>
-						<p>Jefe de Seguridad &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Nunca pedi esto</p>
+						<p>Curiosidades &nbsp;&bull;&nbsp; Comidas Tipicas &nbsp;&bull;&nbsp; Inicio</p>
 						<nav>
 							<ul>
 								<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
